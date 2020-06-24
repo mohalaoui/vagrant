@@ -1,5 +1,6 @@
 # vagrant provisioning
 - required to install virtualBox : https://www.virtualbox.org/wiki/Downloads
+
 - if you want to use java8 you have 2 choices:
   - choose stretsh64 debian and use apt-get install -qq -y default-jre>/dev/null
   - download jdk8 from oracle and put it vagrant directory
