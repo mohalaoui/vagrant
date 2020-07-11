@@ -23,3 +23,6 @@ install_mongodb.sh
 
 ### install keycloak
 install_keycloak.sh
+
+### install postgres
+install_postgres.sh
